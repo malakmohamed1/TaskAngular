@@ -1,0 +1,51 @@
+
+.Myself{
+    width: 378px;
+    height: 800px;
+}
+.Group1{  
+    padding: 19px 26px;
+
+    border: 0px 3px 0px 0px;
+    grid-template-rows: auto;
+    grid-template-columns: auto;
+}
+.picture{
+    width: 90px;
+    height: 90px;
+    margin-left: 144px;
+    margin-top: 27px;
+}
+h1{
+
+    width: 82px;
+    height: 44px;
+    margin-top: 19px;
+    margin-left:26px ;
+}
+h2{
+    width: 200px;
+    height: 31px;
+    margin-left: 104px;
+    margin-top: 0px;
+   
+}
+h3{
+    width: 213px;
+    height: 22px;
+    margin-left: 82px;
+    margin-top: 0px;
+    
+   
+}
+h1,h2{
+    font-family: jua;
+}
+h3,span{
+    font-family: inter;
+    color: #7C7C7C;
+}
+.info{
+    Width:263px;
+Height:40px;
+}

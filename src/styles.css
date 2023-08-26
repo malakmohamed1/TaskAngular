@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'jua'; 
+    src: url('assets/fonts/jua/Jua-Regular.ttf') ;
+}
+@font-face {
+    font-family: 'inter'; 
+    src: url('assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf') ;
+}

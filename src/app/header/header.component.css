@@ -1,0 +1,42 @@
+.header-container{
+width: 1134px;
+height: 138px;
+border: 0px, 0px, 3px, 0px
+
+}
+#filterbutton{
+    background-color: #D9D9D994;
+    margin-left: 512px;
+    width: 40px;
+    height: 40px;
+   
+    
+}
+#newcontactbutton{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   background-color: #55C875;
+    margin-left: 10px;
+    width: 140px;
+    height: 40px;
+   
+    
+}
+
+
+button{
+    border-radius: 5px
+}
+img{
+    width: 22px;
+    height: 22px;
+   
+}
+span{
+    font-family: jua;
+}
+button span{
+    font-family: inter;
+    padding: 10px;
+}
